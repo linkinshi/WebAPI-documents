@@ -24,8 +24,3 @@
 路由 | 方式 | 参数 | 描述
 -----|------|-----|-------
 `/func/block_ip` | POST | node_id, ip | 上报block_ip
-
----
-路由 | 方式 | 参数 | 描述
------|------|-----|-------
-`/func/speedtest` | POST | node_id, telecomping, telecomeupload, telecomedownload, unicomping, unicomupload, unicomdownload, cmccping, cmccupload, cmccdownload | 上报三网 speedtest 结果
